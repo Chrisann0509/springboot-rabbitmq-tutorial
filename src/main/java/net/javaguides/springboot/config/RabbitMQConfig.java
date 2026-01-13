@@ -39,7 +39,7 @@ public class RabbitMQConfig {
                 .to(exchange())
                 .with(routingKey);
     }
-    
+
     //Spring Boot configure these 3 automatically
     //ConnectionFactory
     //RabbitTemplate
