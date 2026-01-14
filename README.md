@@ -273,8 +273,6 @@ public class RabbitMQConfig {
 3. **Send a message** via REST endpoint or main method invoking the sender.
 4. **Observe the listener log** for received message output.
 
----
-
 ### 9. Tips & Best Practices
 
 - Use the RabbitMQ **Management UI** (`http://localhost:15672`) to monitor queues, exchanges, and messages.
